@@ -1,0 +1,18 @@
+bibentry(bibtype = "Article",
+           header       = "To cite the associated publication use:",
+         
+           title        = "A New Fuzzy Logicbased Similarity Measure applied to Large Gap Imputation for Uncorrelated Multivariate Time Series",
+           author       = "Thi-Thu-Hong Phan and Andre Bigand and Emilie Poisson-Caillault",
+           journal      = "Applied Computational Intelligence and Soft Computing",
+           year         = "2018",
+	issn = "1687-9732",
+	doi = "10.1155/2018/9095683",
+	url = "https://www.hindawi.com/journals/acisc/2018/9095683/",
+	keywords = "Fuzzy inference system, Uncorrelated multivariate time series, Incompleteness, Similarity measure, Imputation"
+
+           ## textVersion  = paste("Thi-Thu-Hong Phan and Andre Bigand and Emilie Poisson-Caillault (2018)",
+           ##   "A New Fuzzy Logicbased Similarity Measure applied to Large Gap Imputation for Uncorrelated Multivariate Time Series.",
+           ##   "Applied Computational Intelligence and Soft Computing.",
+           ##   "URL https://www.hindawi.com/journals/acisc/2018/9095683/"),
+)
+
